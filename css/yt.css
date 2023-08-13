@@ -1,0 +1,12 @@
+p#video-title {
+    font-weight: bold;
+    background: transparent;
+    padding: 5px 4px;
+    font-family: serif;
+    text-align: center;
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
